@@ -1,1 +1,2 @@
-This is a readme for the exercise panel . Here I will upload practice sheets that I solve and are relevant to the Machine learning.
+#Exercise Sheet Collections of Machine Learning
+Here I will upload solved practice and exercise sheets for various topics of machine learning and the libraries that we use. Others can also practice here from the given practice sheets.
